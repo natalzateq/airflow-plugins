@@ -1,0 +1,8 @@
+setup.py
+custom_operators/PythonPodOperator.py
+custom_operators/PythonPodOperatorTest.py
+custom_operators/__init__.py
+custom_operators.egg-info/PKG-INFO
+custom_operators.egg-info/SOURCES.txt
+custom_operators.egg-info/dependency_links.txt
+custom_operators.egg-info/top_level.txt
